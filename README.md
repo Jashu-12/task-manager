@@ -1,7 +1,7 @@
 
 # Task Manager
 
-This application let's the user to create a account and authentic it. We can create as many tasks as we want and they will be linked with user account in which they are created and only the onwer will be able to alter the tasks. Tested the application functionality with the help of Jest. 
+This application let's the user to create a account and authentic it. We can create as many tasks as we want and they will be linked with user account in which they are created and only the owner will be able to alter the tasks. Tested the application functionality with the help of Jest. 
 
 
 ## API Reference
